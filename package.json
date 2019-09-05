@@ -1,7 +1,10 @@
 {
   "name": "ms-Dropdown",
   "description": "ms-Dropdown",
-  "main": "js/msdropdown/jquery.dd.js",
+  "main": [
+    "js/msdropdown/jquery.dd.js",
+    "css/msdropdown/dd.css"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sadwik/ms-Dropdown/.git"
