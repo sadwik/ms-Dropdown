@@ -4,7 +4,7 @@
   "main": "js/msdropdown/jquery.dd.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sadwik/cesium-navigation-es6.git"
+    "url": "git+https://github.com/sadwik/ms-Dropdown/.git"
   },
   "dependencies": {
     "jquery": "^1.9.x"
@@ -12,7 +12,7 @@
   "author": "Marghoob Suleman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sadwik/cesium-navigation-es6/issues"
+    "url": "https://github.com/sadwik/ms-Dropdown//issues"
   },
-  "homepage": "https://github.com/sadwik/cesium-navigation-es6#readme"
+  "homepage": "https://github.com/sadwik/ms-Dropdown/#readme"
 }
